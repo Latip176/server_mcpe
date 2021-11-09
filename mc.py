@@ -10,7 +10,7 @@ banner = """
  / / / /_/ / ___/ Coded By: Latip176          
 /_/__\____/_/                   
 
-[ Top 24 Server Mcpe Populer Indonesia! ]
+[ Top 25 Server Mcpe Populer Indonesia! ]
 """
 class Main:
 	
